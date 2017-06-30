@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="547.357px" height="237.414px" viewBox="0 0 547.357 237.414" style="enable-background:new 0 0 547.357 237.414;"
+	 xml:space="preserve">
+<style type="text/css">
+	.lineaMorada{
+		fill:none;
+		stroke:#893494;
+		stroke-width:3;
+		stroke-linecap:round;
+		stroke-miterlimit:10;
+	}
+
+	.lineaMorada{
+		stroke-dasharray:1000;
+		stroke-dashoffset:0;
+		-webkit-animation: lineaMorada 4s ease-in-out forwards;
+		-moz-animation: lineaMorada 4s ease-in-out forwards;
+		-o-animation: lineaMorada 4s ease-in-out forwards;
+		nimation: lineaMorada 4s ease-in-out forwards;
+	}
+
+	@-webkit-keyframes lineaMorada{
+		from{
+			stroke-dashoffset: 1000;
+		}
+
+		to{
+			stroke-dashoffset: 0;
+		}
+	}
+</style>
+<path class="lineaMorada" d="M1.5,1.5h4.47v3.352h4.692v4.469h3.128v2.235h2.905v2.905H19.6v1.564h2.234v2.458h4.47v3.128
+	h3.575v3.576h2.905v1.117h4.245v2.234h3.799v2.235l1.118,1.117l2.235,2.235l2.905,0.447c0.447,1.788,0.894,3.799,0.894,3.799
+	l2.234,1.788l3.799,1.564l1.787,3.128l0.223,4.246l0.671,4.916l2.011,2.905l4.47,0.894l4.246,1.117l3.352,0.67l2.682,6.033h3.799
+	v3.799l2.123,2.123h3.017v5.251h5.587v3.799l3.799,3.799l2.682-2.681v4.916h7.597l2.682,2.682h1.564v3.129h1.787v3.799h6.928v2.234
+	h4.246v3.129h4.246v2.235v1.564h4.469v4.022h5.587v2.234h1.788v3.129h5.587v3.799h6.48v2.234h3.352v3.352h2.234v3.576h3.799v2.682
+	h2.234v2.458h2.905v4.917h6.257v1.787h2.458v2.905h9.385v6.257h12.738v2.234h4.692v2.458h2.905v3.798h2.235l1.453,1.453h2.793v2.346
+	h4.246v3.799h7.151v1.787h1.788v2.235h10.056v2.681h3.128v2.905h2.905v3.129h4.246v1.34h5.14v2.905h8.939v2.011h5.586v2.905h13.408
+	v3.576h8.939v2.682h7.597v2.011h4.693v3.129h2.905v2.905h8.938v3.576h8.715l1.117,1.117h6.927v2.682h3.799v4.245h4.023v4.022h5.139
+	l1.229,1.229h8.603l1.397,1.397h4.637v2.737l2.234,2.235h8.715v2.234h31.732v1.788h14.749v2.235h30.168v2.681h3.575v2.682h11.173
+	v-2.012h91.396"/>
+</svg>

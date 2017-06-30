@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="533.95px" height="258.642px" viewBox="0 0 533.95 258.642" style="enable-background:new 0 0 533.95 258.642;"
+	 xml:space="preserve">
+<style type="text/css">
+	.lineaAmarilla{
+		fill:none;
+		stroke:#F19220;
+		stroke-width:3;
+		stroke-linecap:round;
+		stroke-miterlimit:10;
+	}
+
+	.lineaAmarilla{
+		stroke-dasharray:1000;
+		stroke-dashoffset:0;
+		-webkit-animation: lineaAmarilla 2.5s ease-in-out forwards;
+		-moz-animation: lineaAmarilla 2.5s ease-in-out forwards;
+		-o-animation: lineaAmarilla 2.5s ease-in-out forwards;
+		nimation: lineaAmarilla 2.5s ease-in-out forwards;
+	}
+
+	@-webkit-keyframes lineaAmarilla{
+		from{
+			stroke-dashoffset: 1000;
+		}
+
+		to{
+			stroke-dashoffset: 0;
+		}
+	}
+</style>
+<path class="lineaAmarilla" d="M1.5,1.5h2.681v6.257h5.363v3.799h4.469v4.246h2.905v6.257h2.458v2.682h5.81v2.682h3.576v3.575
+	l2.234,2.235h2.235v4.245h3.352v3.128h3.799v4.023h3.129l1.788,1.787h3.576v3.576h4.022v2.681h5.14v5.14h6.703v4.469h6.257v4.693
+	h5.587v5.139h2.234v6.704h3.799c0,0-0.783,3.464,0,4.246c0.782,0.782,3.799,0,3.799,0v3.352h4.022v4.693h3.352v3.352h3.576v3.799
+	l3.799,3.799h4.916v4.469h4.469v7.15h2.905v5.587h5.14v4.022h4.916v2.905h4.916v3.129l3.352,3.352v2.682h9.162v4.022h4.469
+	l2.346,2.346l3.91,3.911h4.469v6.704h3.576v3.129h6.704v4.022h9.162c0,0-0.559,2.793,0,3.352c0.559,0.559,4.246,0,4.246,0v2.905
+	h4.022v3.128h3.799v2.905h3.128v4.245h3.576v3.799h3.576v3.799c0,0,3.911-0.782,3.128,0c-0.782,0.782,0,3.576,0,3.576h3.352v5.81
+	h4.246l1.564,2.011h5.81l-0.223,2.682l5.14,0.894l-0.447,3.128l15.642,0.224l-0.447,4.022l2.905-0.67l0.894,2.234l11.62-0.447
+	l0.447,4.022l3.576-0.894v2.234l16.312-0.67l0.671,4.916h6.704l0.447,2.234l3.798-0.893l0.894,5.139l3.799-0.671l1.564,2.235
+	l6.704-1.564l0.447,3.799h7.151v2.458c0,1.118,5.587,0,5.587,0v2.458h19.888v2.905h6.48h3.799v4.246h9.385v2.681h13.184v1.788h12.29
+	v2.682h6.257v2.682h5.586h4.693H423.4v4.916h15.419v3.352h93.631"/>
+</svg>

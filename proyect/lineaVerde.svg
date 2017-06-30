@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="492.556px" height="108.069px" viewBox="0 0 492.556 108.069" style="enable-background:new 0 0 492.556 108.069;"
+	 xml:space="preserve">
+<style type="text/css">
+	.lineaVerde{
+		fill:none;
+		stroke:#39A935;
+		stroke-width:2.5;
+		stroke-linecap:round;
+		stroke-miterlimit:10;
+	}
+
+	.lineaVerde{
+		stroke-dasharray:1000;
+		stroke-dashoffset:0;
+		-webkit-animation: lineaVerde 5s ease-in-out forwards;
+		-moz-animation: lineaVerde 5s ease-in-out forwards;
+		-o-animation: lineaVerde 5s ease-in-out forwards;
+		nimation: lineaVerde 5s ease-in-out forwards;
+	}
+
+	@-webkit-keyframes lineaVerde{
+		from{
+			stroke-dashoffset: 1000;
+		}
+
+		to{
+			stroke-dashoffset: 0;
+		}
+	}
+</style>
+<polyline class="lineaVerde" points="1.25,1.25 90.622,1.25 90.622,7.848 137.407,7.848 137.407,12.647 150.305,12.647 
+	150.305,18.946 154.507,18.946 154.507,26.442 172.501,26.442 172.501,31.542 212.69,31.542 212.69,36.34 298.462,36.34 
+	298.462,41.738 308.062,41.738 308.062,49.236 323.954,49.236 323.954,59.133 407.63,59.133 407.63,65.733 416.628,65.733 
+	416.628,72.93 432.523,72.93 432.523,78.329 434.024,78.329 434.024,86.725 442.121,86.725 442.121,93.022 448.421,93.022 
+	448.421,97.822 477.511,97.822 477.511,106.819 491.306,106.819 "/>
+</svg>

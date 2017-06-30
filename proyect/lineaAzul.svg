@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="483.859px" height="146.564px" viewBox="0 0 483.859 146.564" style="enable-background:new 0 0 483.859 146.564;"
+	 xml:space="preserve">
+<style type="text/css">
+	.lineaAzul{
+		fill:none;
+		stroke:#35A8E0;
+		stroke-width:2.5;
+		stroke-linecap:round;
+		stroke-miterlimit:10;
+	}
+
+	.lineaAzul{
+		stroke-dasharray:1000;
+		stroke-dashoffset:0;
+		-webkit-animation: lineaAzul 4s ease-in-out forwards;
+		-moz-animation: lineaAzul 4s ease-in-out forwards;
+		-o-animation: lineaAzul 4s ease-in-out forwards;
+		nimation: lineaAzul 4s ease-in-out forwards;
+	}
+
+	@-webkit-keyframes lineaAzul{
+		from{
+			stroke-dashoffset: -1000;
+		}
+
+		to{
+			stroke-dashoffset: 0;
+		}
+	}
+</style>
+<path class="lineaAzul" d="M482.609,144.056l-13.496,1.2l-7.497-10.498h-46.489l-2.395-4.499h-6.601v-5.398h-22.793
+	v-7.497l-5.1-2.699l-19.193-1.798l-2.698-6l-34.79,1.501l-8.097-3.599l-29.389-1.501v-5.098l-14.397-1.2l-3.001-2.998l-11.696-1.8
+	l-5.698-5.398h-22.492v-3.9L214.79,70.877h-9.299l-5.997-2.699l-5.399-8.697h-6.601l-6.298-5.4v-7.196l-3.898-7.198h-10.798
+	l-3.597-3.598h-8.099c0,0-5.999-14.398-14.096-16.496c-8.097-2.097-17.095,0-17.095,0l-27.59,0.301l-8.699-7.198H61.533
+	l-2.397-4.198h-6.601l-2.098-7.199L1.25,3.697"/>
+</svg>
